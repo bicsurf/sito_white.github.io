@@ -1,0 +1,288 @@
+/* font-family: 'Electrolize', sans-serif; */
+/* Immagine pre-navbar */
+.bg_custom_nav_img {
+    background-image: url('./media/header.jpg');
+    background-repeat: no-repeat;
+}
+#filter_costum_opacity_nav {
+    background-color: rgba(6, 57, 108, 0.5);
+}
+
+/* bg navbar */
+.nav_bg_custom {
+    background-color: rgb(6, 57, 108);
+    height: 60px;
+}
+.logo_nav_custom {
+    position: relative;
+    left: 60px;
+    padding: 5px;
+}
+
+/* Body h1 custom  */
+.body_card_custom {
+    gap: 20px;
+}
+.text-size {
+    font-size: 60px;
+}
+
+ /* SEZIONE POWER LOREM IMG */
+.filter_costum_opacity_power{
+    background-image: url('./media/power-plant-4712830_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+#filter_costum_opacity_power {
+    background-color: rgba(6, 57, 108, 0.5);
+}
+.list-group-horizontal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+.list-group-item {
+    background-color: transparent;
+    border: none;
+}
+.text_power_custom {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.card-title {
+    font-size: 60px;
+}
+
+/* POWER LOREM body */
+.position_box_1 {
+    position: relative;
+    bottom: 150px;
+    width: 60%;
+    height: 600px;
+    border: 3px solid white;
+    background-color: rgb(6, 57, 108);
+    color: white;
+}
+.margin_text {
+    width: 80%;
+    margin: 50px 20px;
+}
+.justify_img_box_1 {
+    position: relative;
+    left: 40px;
+    bottom: 80px;
+}
+/* Box 2 */
+.position_box_2 {
+    position: relative;
+    bottom: 650px;
+    width: 50%;
+    height: 500px;
+}
+h2.margin_text_box_2 {
+    width: 80%;
+    margin: 50px 20px;
+    margin-right: 30px;
+}
+p.margin_text_box_2 {
+    width: 80%;
+    margin: 85px 20px;
+    margin-right: 30px;
+}
+
+/* Description zone */
+.text_description_custom {
+    color: rgb(6, 57, 108);
+}
+.card_description {
+    bottom: 400px;
+}
+.btn_description_custom {
+    background-color: rgb(6, 57, 108);
+    width: 150px ;
+}
+
+/* Adipisicing zone power lorem */
+.usamap_img {
+    position: relative;
+    bottom: 350px;
+}
+
+/* CARD CITYS */
+.shadow_img_card {
+    background: linear-gradient(90deg, rgba(6, 57, 108, 0.274) 12%, rgba(255,255,255,0) 100%);
+    position: relative;
+    width: 200px;
+    height: 200px;
+    bottom: 250px;
+    margin-left: 80px;
+}
+.img_card {
+    position: relative;
+    bottom: 2px;
+    left: 20px;
+    width: 600px;
+    height: 200px;
+}
+.text_card {
+    position: relative;
+    bottom: 425px;
+    left: 115px;
+    width: 600px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.062);
+}
+.text_card_albany {
+    position: relative;
+    bottom: 415px;
+    left: 115px;
+    width: 600px;
+    color: white;
+    background-color: rgba(6, 57, 108, 0.603);
+}
+
+/* SOME STUFF */
+.stuff_costum {
+    background-color: rgb(6, 57, 108);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    bottom: 240px;
+}
+.align_items_custom {
+    top: 60px;
+}
+
+/* CARD SOME STUFF */
+.body_custom_color {
+    color: rgb(6, 57, 108);
+}
+.position_custom_somestuff {
+    position: relative;
+    bottom: 350px;
+}
+.img_custom_stuff_sun {
+    background-image: url("./media/sun.png");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_custom_stuff_wind {
+    background-image: url("./media/wind.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_custom_stuff_wave {
+    background-image: url("./media/wave.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_custom_stuff_gas {
+    background-image: url("./media/gas.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_custom_stuff_oil {
+    background-image: url("./media/oil.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_custom_stuff_atom {
+    background-image: url("./media/nuclear.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* DOWNLOAD CARD */
+.position_download_custom {
+    position: relative;
+    bottom: 250px;
+}
+.border_custom_download {
+    position: relative;
+    height: 200px;
+    border: 2px solid white;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+.icon_download_custom {
+    position: relative;
+    left: 125px;
+    bottom: 15px;
+    font-size: 50px;
+}
+
+/* DESCRIPTION ZONE */
+.container_lorem {
+    width: 100%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    background-color: rgb(6, 57, 108);
+}
+.title_custom_color {
+    color: rgb(6, 57, 108);
+}
+.text_description_position {
+    margin-right: 80px;
+}
+.ipsum_1 {
+    width: 25%;
+    background-color: rgb(6, 57, 108);
+}
+.ipsum_2 {
+    width: 45%;
+    background-color: rgb(6, 57, 108);
+}
+.ipsum_3 {
+    width: 70%;
+    background-color: rgb(6, 57, 108);
+}
+.ipsum_4 {
+    width: 80%;
+    background-color: rgb(6, 57, 108);
+}
+.ipsum_5 {
+    width: 60%;
+    background-color: rgb(6, 57, 108);
+}
+
+/* FOOTER */
+.disclaimer_body_custom {
+    margin-top: 10%;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.body_footer_custom {
+    position: relative;
+    top: 80px;
+    left: 200px;
+}
+
+/* FOOTER BLU */
+.body_footer_blu {
+    position: relative;
+    width: 30%;
+    left: 60%;
+    height: 500px;
+    bottom: 100%;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(6, 57, 108);
+}
+.blu_margin_custom {
+    position: relative;
+    top: -5%;
+}
+.font_footer_custom {
+    font-size: 50px;
+}
+.list_footer_custom {
+    margin-left: 10px;
+    font-size: 15px;
+    text-decoration: underline;
+}
